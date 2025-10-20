@@ -12,9 +12,9 @@ La tua nuova casa.
 Non esiste limite, grazie alle nostre “branch-up”.
 Trova lo spazio adatto a te, per contribuire allo sviluppo dell’umanità.
 </p>
-<img width="324" height="324" alt="Biology Company Logo with Turquoise and Green" src="https://github.com/user-attachments/assets/89657241-d460-47ae-8613-7eaaae3938b1" />
-<img width="324" height="324" alt="Iconic Chemistry Brand Logo without Text" src="https://github.com/user-attachments/assets/e520b215-a57b-41e3-a2e1-4d3cd24fe010" />
-<img width="334" height="334" alt="Informatica Logo with Circuit Board and Chip Design" src="https://github.com/user-attachments/assets/1cd5c0f7-6a36-402d-9a0f-de4103c5067e" />
-<img width="324" height="324" alt="Engineering Firm Logo with Empty Text and Matte Black" src="https://github.com/user-attachments/assets/b42a67d1-f35f-49e5-8253-060ded1fd55a" />
-<img width="324" height="324" alt="Logo for Physics-Themed Brand (No Text)" src="https://github.com/user-attachments/assets/0ee24e91-fceb-4238-a9a3-7557fc090fa2" />
-<img width="324" height="324" alt="Sleek Math Organization Logo Featuring Pi" src="https://github.com/user-attachments/assets/8b2a2616-7109-4936-a183-c721bfd20bda" />
+<img width="224" height="224" alt="Biology Company Logo with Turquoise and Green" src="https://github.com/user-attachments/assets/89657241-d460-47ae-8613-7eaaae3938b1" />
+<img width="224" height="224" alt="Iconic Chemistry Brand Logo without Text" src="https://github.com/user-attachments/assets/e520b215-a57b-41e3-a2e1-4d3cd24fe010" />
+<img width="234" height="234" alt="Informatica Logo with Circuit Board and Chip Design" src="https://github.com/user-attachments/assets/1cd5c0f7-6a36-402d-9a0f-de4103c5067e" />
+<img width="224" height="224" alt="Engineering Firm Logo with Empty Text and Matte Black" src="https://github.com/user-attachments/assets/b42a67d1-f35f-49e5-8253-060ded1fd55a" />
+<img width="224" height="224" alt="Logo for Physics-Themed Brand (No Text)" src="https://github.com/user-attachments/assets/0ee24e91-fceb-4238-a9a3-7557fc090fa2" />
+<img width="224" height="224" alt="Sleek Math Organization Logo Featuring Pi" src="https://github.com/user-attachments/assets/8b2a2616-7109-4936-a183-c721bfd20bda" />

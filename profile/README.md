@@ -10,7 +10,7 @@ Un corpo principale, dal quale si sviluppa il progresso.
 Il futuro della ricerca di frontiera.
 La tua nuova casa.
 Non esiste limite, grazie alle nostre “branch-up”.
-Trova lo spazio adatto a te, per contribuire allo sviluppo dell’umanità.
+Trova lo spazio adatto a te, per contribuire allo sviluppo dell’umanità.</p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/89657241-d460-47ae-8613-7eaaae3938b1" width="224" height="224" style="display:inline-block; margin: 0 10px;" />
   <img src="https://github.com/user-attachments/assets/e520b215-a57b-41e3-a2e1-4d3cd24fe010" width="224" height="224" style="display:inline-block; margin: 0 10px;" />
